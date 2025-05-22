@@ -1,6 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
 
 First, run the development server:
 
@@ -38,6 +36,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Tech
 
 - NextJS 14, RSC, Server actions, useFormStatus,useOptimistic
+- React
 - Shadcn-ui
 - Prisma
 - NextAuth
@@ -50,5 +49,3 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 <img src="./images/dark-greet.png" alt="" width="100%"/>
 <img src="./images/dark-chat.png" alt="" width="100%"/>
 <img src="./images/light-chat.png" alt="" width="100%"/>
-
-Old version url - https://nextgpt-old-xyz.vercel.app/auth/login
